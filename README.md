@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working on mastering Machine Learning algorithms 
+- 🔭 Mastering Machine Learning algorithms 
 - 🌱 Learning Big Data analytics tools
-- 👯 Ping me up to collaborate on Data Science projects
+- 👯 Ping up to collaborate on Data Science projects
 - 💬 Ask me anything related to Python and Data analysis
 - ⚡ Fun fact: I secretly enjoy Olympiads
 
